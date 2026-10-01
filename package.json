@@ -1,0 +1,11 @@
+{
+  "name": "tapon-success-screen",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "start": "node scripts/server.mjs",
+    "preview": "node scripts/server.mjs",
+    "check": "node --check scripts/validate.mjs && node scripts/validate.mjs"
+  }
+}
