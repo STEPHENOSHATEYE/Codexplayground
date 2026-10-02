@@ -1,0 +1,28 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shop" x1="114" y1="58" x2="192" y2="173" gradientUnits="userSpaceOnUse"><stop stop-color="#5590FF"/><stop offset="1" stop-color="#2763EB"/></linearGradient>
+    <linearGradient id="roof" x1="103" y1="51" x2="202" y2="91" gradientUnits="userSpaceOnUse"><stop stop-color="#5A8EFF"/><stop offset="1" stop-color="#205AE9"/></linearGradient>
+    <linearGradient id="coin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#80AEFF"/><stop offset=".55" stop-color="#3475F1"/><stop offset="1" stop-color="#174BDC"/></linearGradient>
+    <filter id="shadow" x="55" y="35" width="205" height="165" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <ellipse cx="151" cy="132" rx="100" ry="34" stroke="#EFF4FF" stroke-width="17" transform="rotate(-8 151 132)"/>
+  <ellipse cx="151" cy="177" rx="65" ry="8" fill="#DDE8FF" opacity=".45" filter="url(#shadow)"/>
+  <path d="M96 166h109v11c0 4-3 7-7 7h-96c-4 0-6-3-6-7v-11Z" fill="#245AE5"/>
+  <path d="M104 83h94v86h-94V83Z" fill="url(#shop)"/>
+  <path d="M118 105h29v64h-29v-64Z" fill="#3473ED"/>
+  <rect x="129" y="139" width="5" height="13" rx="2.5" fill="#BFD5FF"/>
+  <rect x="154" y="112" width="36" height="44" rx="4" fill="#74A6FF"/>
+  <path d="m156 151 31-35M165 155l25-28" stroke="#5994FA" stroke-width="4" opacity=".75"/>
+  <path d="m104 80 8-26h78l8 26h-94Z" fill="url(#roof)"/>
+  <path d="M109 51c0-4 3-7 7-7h73c4 0 7 3 7 7v7h-87v-7Z" fill="#316BF0"/>
+  <path d="M97 79h23v8c0 8-5 13-12 13s-13-5-13-12c0-3 1-6 2-9Z" fill="#3D75F1"/>
+  <path d="m120 79 5-25h18l-1 25v8c0 7-5 13-12 13s-12-6-12-13c0-3 1-6 2-8Z" fill="#DDE8FF"/>
+  <path d="m143 79 1-25h18l2 25v8c0 7-5 13-12 13s-12-6-12-13c0-3 1-6 3-8Z" fill="#3972EF"/>
+  <path d="m164 79-2-25h17l7 25v8c0 7-5 13-12 13s-12-6-12-13c0-3 1-6 2-8Z" fill="#DDE8FF"/>
+  <path d="m186 79-7-25h17l10 25c1 2 2 5 2 8 0 7-6 13-13 13s-12-6-12-13c0-3 1-6 3-8Z" fill="#376FF0"/>
+  <g transform="translate(210 105) rotate(-8)"><rect width="55" height="42" rx="13" fill="#A9C7FF" opacity=".9"/><path d="M14 14h29M14 21h23M14 28h17" stroke="white" stroke-width="4" stroke-linecap="round" opacity=".85"/></g>
+  <circle cx="207" cy="52" r="23" fill="#20BF5A"/><path d="m196 52 7 7 14-15" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(58 58) rotate(-35)"><ellipse cx="13" cy="21" rx="10" ry="21" fill="url(#coin)"/><path d="M13 5c-5 6-5 26 1 33" stroke="#A7C6FF" stroke-width="3" opacity=".7"/></g>
+  <g transform="translate(207 168) rotate(43)"><ellipse cx="13" cy="21" rx="10" ry="21" fill="url(#coin)"/><path d="M13 5c-5 6-5 26 1 33" stroke="#A7C6FF" stroke-width="3" opacity=".7"/></g>
+  <path d="m97 27 3 7 7 3-7 3-3 8-3-8-7-3 7-3 3-7ZM244 148l2 6 6 2-6 3-2 6-3-6-6-3 6-2 3-6Z" fill="#7FD14A"/>
+</svg>
