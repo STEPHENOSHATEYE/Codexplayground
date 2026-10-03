@@ -57,7 +57,7 @@ main {
 
 .success-art {
   display: block;
-  width: 350px;
+  width: 308px;
   max-width: 100%;
   height: auto;
   margin: 0 auto 21px;
@@ -108,7 +108,7 @@ p {
   .brand-mark { width: 40px; height: 40px; }
   main { padding: 110px 20px 40px; }
   .success-card { margin-top: 0; }
-  .success-art { width: 350px; height: auto; margin-bottom: 15px; }
+  .success-art { width: 308px; height: auto; margin-bottom: 15px; }
   h1 { font-size: 36px; }
   p { margin: 18px 0 34px; font-size: 17px; }
   .desktop-break { display: none; }
